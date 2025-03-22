@@ -2,5 +2,7 @@ streamlit
 streamlit-option-menu
 numpy
 pandas
+fastapi
+uvicorn
+requests
 scikit-learn
-# pickle5 -- if you have python 8 or newer ignore 
